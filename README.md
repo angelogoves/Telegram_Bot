@@ -1,6 +1,6 @@
 ## Auto File Sending Telegram Bot Using Python
 
-### AIM: To send multiple files on Telegram from a folder with one click of your figure.
+### AIM: To send multiple files on Telegram from a folder with one click of your finger.
 
 This bot helps me send my files to telegram with an automation process.
 It can send multiple files with a custom thumbnail and captions for each file and also customize the messages with a signature.
